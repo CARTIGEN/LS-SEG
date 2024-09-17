@@ -15,6 +15,14 @@ LS-Seg is a 3D Slicer Extension developed to ease lumbar spine segmentation on M
 
 - W. A. Romero R., S. Uribe V., D. Restrepo Q., and D. A. Gómez, **LS-SEG: Semi-Automatic Segmentation Methods for Lumbar Spine MRI in 3D Slicer**, Eighteenth Colombian Computing Conference (18CCC 2024), Manizales, 4-6 September, 2024.
 
+
+# Introductory Jupyter Notebooks for Getting Started with the `lsseg` Module
+
+These instructional Jupyter Notebooks provide a comprehensive guide to help users get started with the `lsseg` module. They cover fundamental concepts, setup instructions, and practical examples to facilitate understanding and usage.
+
+[![LS-Seg: Cobb angle calculation based on vertebrae segmentation (FSE data)](./docs/readme_figures/lsseg-readme-figure_nb03.png)](https://nbviewer.org/github/CARTIGEN/LS-SEG/blob/main/notebooks/03_Cobb_angle_calculation_example_FSE2D_data.ipynb "LS-Seg: Cobb angle calculation based on vertebrae segmentation (FSE data)")
+
+
 # Main developers
 
 * [Daniel Restrepo Quiñones](https://github.com/Cecilio0) (Universidad EIA).
